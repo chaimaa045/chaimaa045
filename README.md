@@ -178,9 +178,7 @@ An e-commerce and business showcase platform for a landscaping business, integra
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaimaa045&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaa045&layout=compact&theme=default&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaa045&layout=compact&langs_count=8&theme=default&hide_border=true)
 ---
 
 ## Connect With Me
